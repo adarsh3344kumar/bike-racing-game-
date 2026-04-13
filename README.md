@@ -1,2 +1,16 @@
-# bike-racing-game-
-bike racing game 
+# Remix: 3D bike racing game
+
+Created with [Omma](https://omma.build)
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
